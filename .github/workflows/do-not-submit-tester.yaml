@@ -1,0 +1,22 @@
+name: Test-Run Do Not Submit Action
+on:
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+    test:
+        runs-on: ubuntu-22.04
+        steps:
+        - uses: actions/checkout@v3
+          # How do i test..?
+        - name: Checkout do-not-submit repo
+          uses: actions/checkout@v3
+          with:
+            repository: infocus7/do-not-submit-action
+        - name: Run do-not-submit action
+          uses: infocus7/do-not-submit-action@9d269424ec71bd55f59e045cdf4afc5dd58ab678
+          with:
+            keyword: 'DO_NOT_SUBMIT'
+            check_list: 'test/data/*'
