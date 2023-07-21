@@ -10,11 +10,6 @@ jobs:
     test:
         runs-on: ubuntu-22.04
         steps:
-        - name: Checkout do-not-submit repo
-          uses: actions/checkout@v3
-          with:
-            repository: infocus7/do-not-submit-action # checkout action repo to get the `do-not-submit.sh` script
-            fetch-depth: 0
         - uses: actions/checkout@v3
           with:
             fetch-depth: 0 # Check out current PR to get changes compared to main branch
