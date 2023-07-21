@@ -1147,7 +1147,7 @@ print("Hello, World!")
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna al
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-# DO_NOT_SUBMIT
+
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
 # Lorem ipsum dolor sit amet, consectetur adipi
 # Lorem ipsu
@@ -2775,7 +2775,7 @@ print("Hello, World!")
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore m
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore m
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et do
-# DO_NOT_SUBMIT
+
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
 # Lorem ipsum
 # Lorem ipsum dolor
