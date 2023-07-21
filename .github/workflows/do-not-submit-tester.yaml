@@ -14,7 +14,7 @@ jobs:
           with:
             fetch-depth: 0
         - name: Run do-not-submit action
-          uses: infocus7/do-not-submit-action@9d269424ec71bd55f59e045cdf4afc5dd58ab678
+          uses: infocus7/do-not-submit-action@95c109ad94b4eaf00e42f7ef0afdbfda4a32c80c
           with:
             keyword: 'DO_NOT_SUBMIT'
             check_list: 'test/data/*'
