@@ -18,6 +18,7 @@ jobs:
           with:
             repository: infocus7/do-not-submit-action # checkout action repo to get the `do-not-submit.sh` script
             sparse-checkout: 'do-not-submit.sh' # only checkout the script
+            fetch-depth: 0
         - name: Run do-not-submit action
           uses: infocus7/do-not-submit-action@95c109ad94b4eaf00e42f7ef0afdbfda4a32c80c
           with:
