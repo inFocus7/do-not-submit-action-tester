@@ -20,7 +20,7 @@ jobs:
           with:
             fetch-depth: 0 # Check out current PR to get changes compared to main branch
         - name: Run do-not-submit action
-          uses: infocus7/do-not-submit-action@1c7446fac842c6765df606e5024b98437a57edc4
+          uses: infocus7/do-not-submit-action@472160fc755ea65cc89a88ccbbbd15e55cac53e2
           with:
             keyword: 'DO_NOT_SUBMIT'
             check_list: 'test/data/*'
