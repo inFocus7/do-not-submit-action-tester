@@ -18,4 +18,4 @@ jobs:
           with:
             keyword: 'DO_NOT_SUBMIT'
             check_list: '"test/data/*"' # Wrapped in quotes, so the wildcard is not expanded by the shell.
-            should_fail: 'false'
+            should_fail: 'true'
