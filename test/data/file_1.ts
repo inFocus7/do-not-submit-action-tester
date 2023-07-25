@@ -2563,7 +2563,6 @@ console.log("Hello, World!");
 // Lorem ipsum dolor sit amet, consectetur adipisci
 // Lor
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
-// DO_NOT_SUBMIT: will ignore this file, testing that it is ignored!
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp
 // Lorem ipsum do
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
