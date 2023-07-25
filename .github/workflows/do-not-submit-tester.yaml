@@ -19,4 +19,4 @@ jobs:
             keyword: 'DO_NOT_SUBMIT'
             check_list: '"test/data/*"' # Wrapped in quotes, so the wildcard is not expanded by the shell.
             ignore_list: '"test/data/file_1.ts"'
-            should_fail: 'true'
+            should_fail: 'false'
