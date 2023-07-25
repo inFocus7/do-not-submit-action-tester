@@ -14,9 +14,9 @@ jobs:
           with:
             fetch-depth: 0 # Check out current PR to get changes compared to main branch
         - name: Run do-not-submit action
-          uses: infocus7/do-not-submit-action@63d76b035a39127e1591653b4c8cc135156d39cd
+          uses: infocus7/do-not-submit-action@8aafbab12ad29a3f2607198c48fcf30046cb80da
           with:
             keyword: 'DO_NOT_SUBMIT'
             check_list: '"test/data/*"' # Wrapped in quotes, so the wildcard is not expanded by the shell.
-            ignore_list: '"test/data/file_1.ts"'
-            should_fail: 'false'
+#            ignore_list: '"test/data/file_1.ts"'
+            should_fail: 'true'
