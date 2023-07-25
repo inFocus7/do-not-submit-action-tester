@@ -41,7 +41,7 @@ console.log("Hello, World!");
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt u
 // Lorem ipsum dolor sit amet, consectetur adipiscing
 // Lorem ipsum dolor sit amet, consectetur adipiscing
-// DO_NOT_SUBMIT
+
 // Lorem ipsum dolor sit amet, co
 // Lorem ipsum dol
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, s

@@ -964,7 +964,7 @@ console.log("Hello, World!");
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididu
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut la
 // Lorem ipsum dolor sit amet,
-// DO_NOT_SUBMIT
+
 // Lore
 // Lorem ipsum dolor sit amet, conse
 // Lorem 
@@ -1434,7 +1434,7 @@ console.log("Hello, World!");
 // Lorem ipsum dolor sit amet, consectetur 
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 // Lorem ipsum dolor sit am
-// DO_NOT_SUBMIT
+
 // Lorem ipsum dolor 
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 // Lorem ipsum dolor sit a

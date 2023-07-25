@@ -21,7 +21,7 @@ console.log("Hello, World!");
 // Lorem ipsum dolor sit amet, consectetur adip
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incid
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor inci
-// DO_NOT_SUBMIT
+
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod t
 // Lorem ipsum
 // Lorem ipsum dolor sit amet, consect

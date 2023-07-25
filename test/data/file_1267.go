@@ -462,7 +462,7 @@ func main() {
 // Lorem ipsum dolor sit am
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiu
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor inci
-// DO_NOT_SUBMIT
+
 // Lor
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo

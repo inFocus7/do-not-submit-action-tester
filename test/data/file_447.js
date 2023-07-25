@@ -531,7 +531,7 @@ console.log("Hello, World!");
 // Lorem ipsum dolor sit amet, consectetur adipiscing
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor
-// DO_NOT_SUBMIT
+
 // Lorem ipsum dolor sit amet, c
 // Lorem ipsum dolor sit amet, consectetur adipiscin
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua

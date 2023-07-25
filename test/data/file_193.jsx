@@ -1782,7 +1782,7 @@ console.log("Hello, World!");
 // Lorem ipsum dolor sit am
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dol
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-// DO_NOT_SUBMIT
+
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor inci
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidi
 // Lorem ipsum dolo
@@ -3033,7 +3033,7 @@ console.log("Hello, World!");
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor in
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-// DO_NOT_SUBMIT
+
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
 // Lorem ipsum dolor sit amet, conse
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dol
