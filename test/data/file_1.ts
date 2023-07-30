@@ -2566,6 +2566,11 @@ console.log("Hello, World!");
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp
 // DO_NOT_SUBMIT
 // DO_NOT_SUBMIT: text
+/* DO_NOT_SUBMIT: text */
+/****
+ * DO_NOT_SUBMIT
+ */
+const DO_NOT_SUBMIT = 'text'; // if smart search not enabled, this will be caught.
 // Lorem ipsum do
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 // Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem
