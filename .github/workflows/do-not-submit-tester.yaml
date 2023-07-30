@@ -14,7 +14,7 @@ jobs:
           with:
             fetch-depth: 0 # Check out current PR to get changes compared to main branch
         - name: Run do-not-submit action
-          uses: infocus7/do-not-submit-action@518c1113aa4afd9121666760e1fe5fe330110d70
+          uses: infocus7/do-not-submit-action@bdd05e9771ecb6544bf8cf15088201e3af56067d
           with:
             keyword: 'DO_NOT_SUBMIT'
             check_list: '"test/data/*"' # Wrapped in quotes, so the wildcard is not expanded by the shell.
