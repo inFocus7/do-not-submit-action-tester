@@ -3,6 +3,7 @@ on:
   pull_request:
     branches:
       - main
+      - ci/test # i messed something up and ci/test is the base branch oops...
   workflow_dispatch:
 
 jobs:
@@ -10,13 +11,11 @@ jobs:
         runs-on: ubuntu-22.04
         steps:
         - uses: actions/checkout@v3
-          # How do i test..?
-        - name: Checkout do-not-submit repo
-          uses: actions/checkout@v3
           with:
-            repository: infocus7/do-not-submit-action
+            fetch-depth: 0 # Check out current PR to get changes compared to main branch
         - name: Run do-not-submit action
-          uses: infocus7/do-not-submit-action@9d269424ec71bd55f59e045cdf4afc5dd58ab678
+          uses: infocus7/do-not-submit-action@da84217b10d0c909cc72fb0c85d397e68d4cfeef
           with:
             keyword: 'DO_NOT_SUBMIT'
-            check_list: 'test/data/*'
+            should_fail: 'true'
+            smart_search: 'true'
