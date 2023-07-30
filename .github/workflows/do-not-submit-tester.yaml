@@ -16,7 +16,7 @@ jobs:
         - name: Run do-not-submit action
           uses: infocus7/do-not-submit-action@bdd05e9771ecb6544bf8cf15088201e3af56067d
           with:
-            keyword: 'DO_NOT_SUBMIT|TEST'
+            keyword: '"DO_NOT_SUBMIT|TEST"'
             check_list: '"test/data/*"' # Wrapped in quotes, so the wildcard is not expanded by the shell.
             ignore_list: '""'
             should_fail: 'true'
